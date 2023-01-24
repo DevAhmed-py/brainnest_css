@@ -81,3 +81,40 @@ li {
     background: #9e9ea2;
     color: #e5e7eb;
 }
+
+/* Main Random Information Section */
+main .random-info {
+    padding: 3% 20% 5%;
+}
+
+.random-info > h3 {
+    text-align: center;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.random-info .wrapper {
+    display: flex;
+    gap: 10px;
+    padding-top: 3%;
+} 
+
+.wrapper .card {
+    padding: 0 15px;
+}
+
+.card .box {
+    height: 150px;
+    width: 150px;
+    border: 3px solid #3882f6;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.card p {
+    text-align: center;
+    font-size: 18px;
+    color: #1f2937;
+    margin: 5px 0 0;
+}
