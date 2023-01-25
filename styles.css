@@ -180,3 +180,15 @@ figure.quote {
     color: #f9faf8;
     font-size: 18px;
 }
+
+/* Footer */
+footer {
+    background: #1f2937;
+}
+
+footer p {
+    text-align: center;
+    margin: 0;
+    padding: 3% 0;
+    font-size: 15px;
+}
