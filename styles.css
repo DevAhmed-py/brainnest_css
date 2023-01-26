@@ -16,14 +16,14 @@ nav {
     align-items: center;
 }
 
-ul {
-    margin: 0;
-    padding: 0;
-}
-
 a {
     text-decoration: none;
     color: #e5e7eb;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
 }
 
 li {
