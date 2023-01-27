@@ -9,7 +9,7 @@ header {
     padding: 3% 15% 0;
 }
 
-/* Header Navigation */
+/* Header Navigation Section */
 nav {
     display: flex;
     justify-content: space-between;
@@ -41,7 +41,7 @@ li {
     gap: 30px;
 }
 
-/* Header Content */
+/* Header Content Section */
 .header-content {
     display: flex;
     padding: 10% 0;
@@ -96,9 +96,9 @@ main .random-info {
 
 .random-info .wrapper {
     display: flex;
+    justify-content: center;
     gap: 10px;
     padding-top: 3%;
-    justify-content: center;
 }
 
 .wrapper .card {
@@ -122,9 +122,9 @@ main .random-info {
 
 /* Quote Section */
 figure.quote {
+    margin: 0;
     padding: 5% 21%;
     background: #e5e7eb;
-    margin: 0;
 }
 
 .quote > q {
@@ -137,8 +137,8 @@ figure.quote {
 
 .quote > figcaption {
     font-weight: bolder;
-    text-align: right;
     font-size: 36px;
+    text-align: right;
 }
 
 /* CTA Section */
@@ -164,8 +164,8 @@ figure.quote {
 
 .left-cta > p {
     font-weight: lighter;
-    margin: 5px 0 0;
     font-size: 15px;
+    margin: 5px 0 0;
 }
 
 .right-cta {
@@ -181,7 +181,7 @@ figure.quote {
     font-size: 18px;
 }
 
-/* Footer */
+/* Footer Section */
 footer {
     background: #1f2937;
 }
